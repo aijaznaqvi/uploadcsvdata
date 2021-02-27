@@ -1,0 +1,706 @@
+PiiQuery:
+  PiiQuery_1:
+    id: 1
+    spi_table: admin_member
+    spi_column: f_name
+    is_sensitive: 1
+  PiiQuery_2:
+    id: 2
+    spi_table: admin_member
+    spi_column: l_name
+    is_sensitive: 1
+  PiiQuery_3:
+    id: 3
+    spi_table: admin_member
+    spi_column: h_name
+    is_sensitive: 1
+  PiiQuery_4:
+    id: 4
+    spi_table: admin_member
+    spi_column: title
+    is_sensitive: 1
+  PiiQuery_5:
+    id: 5
+    spi_table: admin_member
+    spi_column: company
+    is_sensitive: 1
+  PiiQuery_6:
+    id: 6
+    spi_table: admin_member
+    spi_column: address1
+    is_sensitive: 1
+  PiiQuery_7:
+    id: 7
+    spi_table: admin_member
+    spi_column: address2
+    is_sensitive: 1
+  PiiQuery_8:
+    id: 8
+    spi_table: admin_member
+    spi_column: city
+    is_sensitive: 1
+  PiiQuery_9:
+    id: 9
+    spi_table: admin_member
+    spi_column: province_state
+    is_sensitive: 1
+  PiiQuery_10:
+    id: 10
+    spi_table: admin_member
+    spi_column: country
+    is_sensitive: 1
+  PiiQuery_11:
+    id: 11
+    spi_table: admin_member
+    spi_column: postal_code
+    is_sensitive: 1
+  PiiQuery_12:
+    id: 12
+    spi_table: admin_member
+    spi_column: tel_countrycode
+    is_sensitive: 1
+  PiiQuery_13:
+    id: 13
+    spi_table: admin_member
+    spi_column: tel_areacode
+    is_sensitive: 1
+  PiiQuery_14:
+    id: 14
+    spi_table: admin_member
+    spi_column: tel_number
+    is_sensitive: 1
+  PiiQuery_15:
+    id: 15
+    spi_table: admin_member
+    spi_column: fax_areacode
+    is_sensitive: 1
+  PiiQuery_16:
+    id: 16
+    spi_table: admin_member
+    spi_column: fax_number
+    is_sensitive: 1
+  PiiQuery_17:
+    id: 17
+    spi_table: admin_member
+    spi_column: bus_areacode
+    is_sensitive: 1
+  PiiQuery_18:
+    id: 18
+    spi_table: admin_member
+    spi_column: bus_number
+    is_sensitive: 1
+  PiiQuery_19:
+    id: 19
+    spi_table: admin_member
+    spi_column: bus_extension
+    is_sensitive: 1
+  PiiQuery_20:
+    id: 20
+    spi_table: admin_member
+    spi_column: email
+    is_sensitive: 1
+  PiiQuery_21:
+    id: 21
+    spi_table: admin_member
+    spi_column: notes
+    is_sensitive: 1
+  PiiQuery_22:
+    id: 22
+    spi_table: admin_member
+    spi_column: sin
+    is_sensitive: 1
+  PiiQuery_23:
+    id: 23
+    spi_table: admin_members
+    spi_column: f_name
+    is_sensitive: 1
+  PiiQuery_24:
+    id: 24
+    spi_table: admin_members
+    spi_column: l_name
+    is_sensitive: 1
+  PiiQuery_25:
+    id: 25
+    spi_table: admin_members
+    spi_column: h_name
+    is_sensitive: 1
+  PiiQuery_26:
+    id: 26
+    spi_table: admin_members
+    spi_column: title
+    is_sensitive: 1
+  PiiQuery_27:
+    id: 27
+    spi_table: admin_members
+    spi_column: company
+    is_sensitive: 1
+  PiiQuery_28:
+    id: 28
+    spi_table: admin_members
+    spi_column: address1
+    is_sensitive: 1
+  PiiQuery_29:
+    id: 29
+    spi_table: admin_members
+    spi_column: address2
+    is_sensitive: 1
+  PiiQuery_30:
+    id: 30
+    spi_table: admin_members
+    spi_column: city
+    is_sensitive: 1
+  PiiQuery_31:
+    id: 31
+    spi_table: admin_members
+    spi_column: province_state
+    is_sensitive: 1
+  PiiQuery_32:
+    id: 32
+    spi_table: admin_members
+    spi_column: country
+    is_sensitive: 1
+  PiiQuery_33:
+    id: 33
+    spi_table: admin_members
+    spi_column: postal_code
+    is_sensitive: 1
+  PiiQuery_34:
+    id: 34
+    spi_table: admin_members
+    spi_column: tel_countrycode
+    is_sensitive: 1
+  PiiQuery_35:
+    id: 35
+    spi_table: admin_members
+    spi_column: tel_areacode
+    is_sensitive: 1
+  PiiQuery_36:
+    id: 36
+    spi_table: admin_members
+    spi_column: tel_number
+    is_sensitive: 1
+  PiiQuery_37:
+    id: 37
+    spi_table: admin_members
+    spi_column: fax_areacode
+    is_sensitive: 1
+  PiiQuery_38:
+    id: 38
+    spi_table: admin_members
+    spi_column: fax_number
+    is_sensitive: 1
+  PiiQuery_39:
+    id: 39
+    spi_table: admin_members
+    spi_column: bus_areacode
+    is_sensitive: 1
+  PiiQuery_40:
+    id: 40
+    spi_table: admin_members
+    spi_column: bus_number
+    is_sensitive: 1
+  PiiQuery_41:
+    id: 41
+    spi_table: admin_members
+    spi_column: bus_extension
+    is_sensitive: 1
+  PiiQuery_42:
+    id: 42
+    spi_table: admin_members
+    spi_column: email
+    is_sensitive: 1
+  PiiQuery_43:
+    id: 43
+    spi_table: admin_members
+    spi_column: notes
+    is_sensitive: 1
+  PiiQuery_44:
+    id: 44
+    spi_table: admin_members
+    spi_column: sin
+    is_sensitive: 1
+  PiiQuery_45:
+    id: 45
+    spi_table: members
+    spi_column: f_name
+    is_sensitive: 1
+  PiiQuery_46:
+    id: 46
+    spi_table: members
+    spi_column: l_name
+    is_sensitive: 1
+  PiiQuery_47:
+    id: 47
+    spi_table: members
+    spi_column: h_name
+    is_sensitive: 1
+  PiiQuery_48:
+    id: 48
+    spi_table: members
+    spi_column: title
+    is_sensitive: 1
+  PiiQuery_49:
+    id: 49
+    spi_table: members
+    spi_column: company
+    is_sensitive: 1
+  PiiQuery_50:
+    id: 50
+    spi_table: members
+    spi_column: address1
+    is_sensitive: 1
+  PiiQuery_51:
+    id: 51
+    spi_table: members
+    spi_column: address2
+    is_sensitive: 1
+  PiiQuery_52:
+    id: 52
+    spi_table: members
+    spi_column: city
+    is_sensitive: 1
+  PiiQuery_53:
+    id: 53
+    spi_table: members
+    spi_column: province_state
+    is_sensitive: 1
+  PiiQuery_54:
+    id: 54
+    spi_table: members
+    spi_column: country
+    is_sensitive: 1
+  PiiQuery_55:
+    id: 55
+    spi_table: members
+    spi_column: postal_code
+    is_sensitive: 1
+  PiiQuery_56:
+    id: 56
+    spi_table: members
+    spi_column: tel_countrycode
+    is_sensitive: 1
+  PiiQuery_57:
+    id: 57
+    spi_table: members
+    spi_column: tel_areacode
+    is_sensitive: 1
+  PiiQuery_58:
+    id: 58
+    spi_table: members
+    spi_column: tel_number
+    is_sensitive: 1
+  PiiQuery_59:
+    id: 59
+    spi_table: members
+    spi_column: fax_areacode
+    is_sensitive: 1
+  PiiQuery_60:
+    id: 60
+    spi_table: members
+    spi_column: fax_number
+    is_sensitive: 1
+  PiiQuery_61:
+    id: 61
+    spi_table: members
+    spi_column: bus_areacode
+    is_sensitive: 1
+  PiiQuery_62:
+    id: 62
+    spi_table: members
+    spi_column: bus_number
+    is_sensitive: 1
+  PiiQuery_63:
+    id: 63
+    spi_table: members
+    spi_column: bus_extension
+    is_sensitive: 1
+  PiiQuery_64:
+    id: 64
+    spi_table: members
+    spi_column: email
+    is_sensitive: 1
+  PiiQuery_65:
+    id: 65
+    spi_table: members
+    spi_column: notes
+    is_sensitive: 1
+  PiiQuery_66:
+    id: 66
+    spi_table: orders
+    spi_column: details
+    is_sensitive: 1
+  PiiQuery_67:
+    id: 67
+    spi_table: orders
+    spi_column: shipping_address
+    is_sensitive: 1
+  PiiQuery_68:
+    id: 68
+    spi_table: orders
+    spi_column: business_address
+    is_sensitive: 1
+  PiiQuery_69:
+    id: 69
+    spi_table: orders
+    spi_column: ship_name
+    is_sensitive: 1
+  PiiQuery_70:
+    id: 70
+    spi_table: orders
+    spi_column: ship_fname
+    is_sensitive: 1
+  PiiQuery_71:
+    id: 71
+    spi_table: orders
+    spi_column: ship_lname
+    is_sensitive: 1
+  PiiQuery_72:
+    id: 72
+    spi_table: orders
+    spi_column: ship_email
+    is_sensitive: 1
+  PiiQuery_73:
+    id: 73
+    spi_table: orders
+    spi_column: ship_company
+    is_sensitive: 1
+  PiiQuery_74:
+    id: 74
+    spi_table: orders
+    spi_column: ship_address1
+    is_sensitive: 1
+  PiiQuery_75:
+    id: 75
+    spi_table: orders
+    spi_column: ship_address2
+    is_sensitive: 1
+  PiiQuery_76:
+    id: 76
+    spi_table: orders
+    spi_column: ship_city
+    is_sensitive: 1
+  PiiQuery_77:
+    id: 77
+    spi_table: orders
+    spi_column: ship_province
+    is_sensitive: 1
+  PiiQuery_78:
+    id: 78
+    spi_table: orders
+    spi_column: ship_postalcode
+    is_sensitive: 1
+  PiiQuery_79:
+    id: 79
+    spi_table: orders
+    spi_column: ship_country
+    is_sensitive: 1
+  PiiQuery_80:
+    id: 80
+    spi_table: orders
+    spi_column: ship_tel_countrycode
+    is_sensitive: 1
+  PiiQuery_81:
+    id: 81
+    spi_table: orders
+    spi_column: ship_tel_areacode
+    is_sensitive: 1
+  PiiQuery_82:
+    id: 82
+    spi_table: orders
+    spi_column: ship_tel_number
+    is_sensitive: 1
+  PiiQuery_83:
+    id: 83
+    spi_table: orders
+    spi_column: special_instructions
+    is_sensitive: 1
+  PiiQuery_84:
+    id: 84
+    spi_table: orders
+    spi_column: courier_tracking_num
+    is_sensitive: 1
+  PiiQuery_85:
+    id: 85
+    spi_table: P2M_trans
+    spi_column: memo
+    is_sensitive: 1
+  PiiQuery_86:
+    id: 86
+    spi_table: P2M_trans
+    spi_column: tag
+    is_sensitive: 1
+  PiiQuery_87:
+    id: 87
+    spi_table: P2M_trans
+    spi_column: awarded_by
+    is_sensitive: 1
+  PiiQuery_88:
+    id: 88
+    spi_table: admin_member
+    spi_column: ref_number
+    is_sensitive: 1
+  PiiQuery_89:
+    id: 89
+    spi_table: admin_members
+    spi_column: ref_number
+    is_sensitive: 1
+  PiiQuery_90:
+    id: 90
+    spi_table: cg_mailer_queue
+    spi_column: parameters
+    is_sensitive: 1
+  PiiQuery_91:
+    id: 91
+    spi_table: members
+    spi_column: ref_number
+    is_sensitive: 1
+  PiiQuery_92:
+    id: 92
+    spi_table: members
+    spi_column: sin
+    is_sensitive: 1
+  PiiQuery_93:
+    id: 93
+    spi_table: members_notes
+    spi_column: note
+    is_sensitive: 1
+  PiiQuery_94:
+    id: 94
+    spi_table: orders_extra_info
+    spi_column: user_ip
+    is_sensitive: 1
+  PiiQuery_95:
+    id: 95
+    spi_table: p2m_analytics_event_log
+    spi_column: parameters
+    is_sensitive: 1
+  PiiQuery_96:
+    id: 96
+    spi_table: p2m_metadata_activity_data
+    spi_column: value
+    is_sensitive: 1
+  PiiQuery_97:
+    id: 97
+    spi_table: p2m_metadata_claim
+    spi_column: value
+    is_sensitive: 1
+  PiiQuery_98:
+    id: 98
+    spi_table: p2m_metadata_member
+    spi_column: value
+    is_sensitive: 1
+  PiiQuery_99:
+    id: 99
+    spi_table: p2m_metadata_metric
+    spi_column: value
+    is_sensitive: 1
+  PiiQuery_100:
+    id: 100
+    spi_table: p2m_metadata_metric_submission
+    spi_column: value
+    is_sensitive: 1
+  PiiQuery_101:
+    id: 101
+    spi_table: p2m_metadata_orgnode
+    spi_column: value
+    is_sensitive: 1
+  PiiQuery_102:
+    id: 102
+    spi_table: p2m_redeem_credit_trans
+    spi_column: memo
+    is_sensitive: 1
+  PiiQuery_103:
+    id: 103
+    spi_table: p2m_redeem_credit_trans
+    spi_column: cancel_memo
+    is_sensitive: 1
+  PiiQuery_104:
+    id: 104
+    spi_table: purchase_orders
+    spi_column: shipping_address
+    is_sensitive: 1
+  PiiQuery_105:
+    id: 105
+    spi_table: purchase_orders
+    spi_column: special_instructions
+    is_sensitive: 1
+  PiiQuery_106:
+    id: 106
+    spi_table: purchase_orders
+    spi_column: created_by
+    is_sensitive: 1
+  PiiQuery_107:
+    id: 107
+    spi_table: purchase_orders
+    spi_column: memo
+    is_sensitive: 1
+  PiiQuery_108:
+    id: 108
+    spi_table: sf_asset
+    spi_column: filename
+    is_sensitive: 1
+  PiiQuery_109:
+    id: 109
+    spi_table: sf_asset
+    spi_column: description
+    is_sensitive: 1
+  PiiQuery_110:
+    id: 110
+    spi_table: orders
+    spi_column: product_option
+    is_sensitive: 1
+  PiiQuery_111:
+    id: 111
+    spi_table: orders
+    spi_column: courier_id
+    is_sensitive: 1
+  PiiQuery_112:
+    id: 112
+    spi_table: orders
+    spi_column: notes
+    is_sensitive: 1
+  PiiQuery_113:
+    id: 113
+    spi_table: members
+    spi_column: tax_id
+    is_sensitive: 1
+  PiiQuery_114:
+    id: 114
+    spi_table: admin_members
+    spi_column: tax_id
+    is_sensitive: 1
+  PiiQuery_115:
+    id: 115
+    spi_table: admin_member
+    spi_column: tax_id
+    is_sensitive: 1
+  PiiQuery_116:
+    id: 116
+    spi_table: p2m_new_members
+    spi_column: f_name
+    is_sensitive: 1
+  PiiQuery_117:
+    id: 117
+    spi_table: p2m_new_members
+    spi_column: l_name
+    is_sensitive: 1
+  PiiQuery_118:
+    id: 118
+    spi_table: p2m_new_members
+    spi_column: title
+    is_sensitive: 1
+  PiiQuery_119:
+    id: 119
+    spi_table: p2m_new_members
+    spi_column: email
+    is_sensitive: 1
+  PiiQuery_120:
+    id: 120
+    spi_table: p2m_new_members
+    spi_column: address1
+    is_sensitive: 1
+  PiiQuery_121:
+    id: 121
+    spi_table: p2m_new_members
+    spi_column: address2
+    is_sensitive: 1
+  PiiQuery_122:
+    id: 122
+    spi_table: p2m_new_members
+    spi_column: city
+    is_sensitive: 1
+  PiiQuery_123:
+    id: 123
+    spi_table: p2m_new_members
+    spi_column: country
+    is_sensitive: 1
+  PiiQuery_124:
+    id: 124
+    spi_table: p2m_new_members
+    spi_column: province_state
+    is_sensitive: 1
+  PiiQuery_125:
+    id: 125
+    spi_table: p2m_new_members
+    spi_column: postal_code
+    is_sensitive: 1
+  PiiQuery_126:
+    id: 126
+    spi_table: p2m_new_members
+    spi_column: tel_countrycode
+    is_sensitive: 1
+  PiiQuery_127:
+    id: 127
+    spi_table: p2m_new_members
+    spi_column: tel_areacode
+    is_sensitive: 1
+  PiiQuery_128:
+    id: 128
+    spi_table: p2m_new_members
+    spi_column: tel_number
+    is_sensitive: 1
+  PiiQuery_129:
+    id: 129
+    spi_table: p2m_new_members
+    spi_column: memo
+    is_sensitive: 1
+  PiiQuery_130:
+    id: 130
+    spi_table: p2m_new_members
+    spi_column: ref_number
+    is_sensitive: 1
+  PiiQuery_131:
+    id: 131
+    spi_table: p2m_new_members
+    spi_column: tax_id
+    is_sensitive: 1
+  PiiQuery_132:
+    id: 132
+    spi_table: members
+    spi_column: date_of_birth
+    is_sensitive: 1
+  PiiQuery_133:
+    id: 133
+    spi_table: p2m_new_members
+    spi_column: date_of_birth
+    is_sensitive: 1
+  PiiQuery_134:
+    id: 134
+    spi_table: admin_member
+    spi_column: date_of_birth
+    is_sensitive: 1
+  PiiQuery_135:
+    id: 135
+    spi_table: admin_members
+    spi_column: date_of_birth
+    is_sensitive: 1
+  PiiQuery_136:
+    id: 136
+    spi_table: members
+    spi_column: username
+    is_sensitive: 1
+  PiiQuery_137:
+    id: 137
+    spi_table: p2m_new_members
+    spi_column: username
+    is_sensitive: 1
+  PiiQuery_138:
+    id: 138
+    spi_table: p2m_award_transaction
+    spi_column: recipient_message
+    is_sensitive: 1
+  PiiQuery_139:
+    id: 139
+    spi_table: p2m_award_transaction
+    spi_column: achievement_description
+    is_sensitive: 1
+  PiiQuery_140:
+    id: 140
+    spi_table: p2m_peer_award_transaction_thread
+    spi_column: message
+    is_sensitive: 1
+  PiiQuery_141:
+    id: 141
+    spi_table: p2m_peer_award_transaction_comment
+    spi_column: comment
+    is_sensitive: 1
